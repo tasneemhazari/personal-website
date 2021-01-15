@@ -208,13 +208,13 @@ h6{font-size: 16px;}
 }
 #preview-shadow{
     background-color: var(--previewShadow);
-    width: 400px;
+    width: 50%;
     height: 180px;
     padding-left: 30px;
     padding-top: 30px;
 }
 #preview{
-    width: 400px;
+    width: 100%;
     border:1.5px solid #17a2b8;
     background-color: var(--previewBg);
     padding: 5px;
@@ -336,7 +336,7 @@ h6{font-size: 16px;}
 }
 
 .social-link{
-margin-left: 250px;
+margin-left: 10%;
 align-content: center;
 }
 
@@ -347,7 +347,7 @@ align-content: center;
 }
 
 .social-link li a{
-    padding: 5px 0;
+    padding: 5% 0;
     font-size:90%;
     align-content: center;
     color: var(--mainText);
@@ -358,9 +358,9 @@ align-content: center;
 #linkedin_pic{
     display: inline-block;
     border: 1px solid var(--borderColor);
-    padding: 10px;
-    height: 20px;
-    width: 20px;
+    padding: 1%;
+    height: 2%;
+    width: 2%;
     align-content: center;
     text-align: center;
 }
@@ -368,9 +368,9 @@ align-content: center;
 #github_pic{
     display: inline-block;
     border: 1px solid var(--borderColor);
-    padding: 10px;
-    height: 20px;
-    width: 20px;
+    padding: 1%;
+    height: 2%;
+    width: 2%;
     align-content: center;
     text-align: center;
 }
@@ -381,9 +381,9 @@ align-content: center;
 #instagram_pic{
     display: inline-block;
     border: 1px solid var(--borderColor);
-    padding: 10px;
-    height: 20px;
-    width: 20px;
+    padding: 1%;
+    height: 2%;
+    width: 2%;
     align-content: center;
     text-align: center;
 
@@ -393,9 +393,9 @@ align-content: center;
 #fb_pic{
     display: inline-block;
     border: 1px solid var(--borderColor);
-    padding: 10px;
-    height: 20px;
-    width: 20px;
+    padding: 1%;
+    height: 2%;
+    width: 2%;
     align-content: center;
     text-align: center;
 }
